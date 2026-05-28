@@ -1,6 +1,6 @@
 # do_an_nhom6
 
-Chĩ có file assets > database > questions.db 
+vị trí file assets > database > questions.db 
 
 có sửa dữ liệu trức tiếp SQLite 
 
