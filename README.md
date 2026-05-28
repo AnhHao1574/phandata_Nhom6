@@ -1,6 +1,14 @@
 # do_an_nhom6
 
-A new Flutter project.
+Chĩ có file assets > database > questions.db 
+
+có sửa dữ liệu trức tiếp SQLite 
+
+sử dụng lệnh trong visual code  dưới
+
+flutter clean
+flutter pub get
+flutter run 
 
 ## Getting Started
 
