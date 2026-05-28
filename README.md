@@ -4,11 +4,17 @@ Chĩ có file assets > database > questions.db
 
 có sửa dữ liệu trức tiếp SQLite 
 
-sử dụng lệnh trong visual code  dưới
+sử dụng lệnh trong visual code dưới
 
 flutter clean
+
 flutter pub get
+
+rồi mới chạy lệnh này 
 flutter run 
+
+
+
 
 ## Getting Started
 
